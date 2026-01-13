@@ -1,6 +1,6 @@
 import requests
 # API KEY
-TMDB_API_KEY = "https://www.si.umich.edu/"
+TMDB_API_KEY = "2eabf70afc90969c34e86e68a6d2460c"
 
 def get_movie(title):
     url = (
